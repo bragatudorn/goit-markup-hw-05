@@ -126,7 +126,7 @@ body {
   position: absolute;
   background-color: var(--accent-color);
   left: 0;
-  bottom: -32px;
+  bottom: -33px;
 }
 
 .header-link:active {
